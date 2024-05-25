@@ -1,0 +1,13 @@
+c5528599d66fcd8fa9dc8dc69417db1f *DESCRIPTION
+e5f8673fccc8e83aa9f93368b7eda953 *LICENSE
+e28f912e22bc4c3023148fc74c4dcbbc *NAMESPACE
+ec0ae1ef1fc94cd1f755eca06e750ada *R/PEE.R
+17906c648f39de1413c6051f15b1e522 *R/PWLS.R
+f7e41df91e1fc7fa7c9d59a80e9cc688 *R/generate_pee_missing_data.R
+9e46bbb48e11c767ef842ae6b0d5da07 *R/generate_pwls_missing_data.R
+e1040ce887a0618959c1f049ac8de55b *R/vsmi.R
+0962ca0b258d24f0dc2ce6b6d9cbd517 *man/PEE.Rd
+0fc7e4e75a5410376e0993d48b78b98b *man/PWLS.Rd
+c189d6d8f2996ee10dda08e829b8fd6b *man/generate_pee_missing_data.Rd
+648605e7cb2220ec9df68ccdde880fc5 *man/generate_pwls_missing_data.Rd
+21e11565a55c260b61e1ed3798ff41b7 *man/vsmi.Rd
